@@ -132,9 +132,9 @@ def local_llm(prompt):
 
     return response
 
-print(local_llm(
-    "Summarize AI in 3 bullet points"
-))
+#print(local_llm(
+#    "Summarize AI in 3 bullet points"
+#))
 
 def router_agent(user_input):
 
@@ -412,9 +412,9 @@ def run_hybrid_system(user_input):
 
     return final_output
 
-response = run_hybrid_system(
-    "Research AI startup ideas in healthcare and create execution roadmap"
-)
+#response = run_hybrid_system(
+#   "Research AI startup ideas in healthcare and create execution roadmap"
+#)
 
 print(response)
 
