@@ -221,7 +221,7 @@ Interactive dashboard displaying:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/hybrid-autonomous-agent-os.git
+git clone https://github.com/ayanc5813-coder/hybrid-autonomous-agent-os.git
 
 cd hybrid-autonomous-agent-os
 ```
